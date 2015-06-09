@@ -1,7 +1,7 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.audioplexity.helloworld" version="1.0.0">
-  <name>HelloWorld</name>
-  <description>Hello World sample application that responds to the deviceready event.</description>
-  <author href="http://phonegap.com" email="support@phonegap.com">PhoneGap Team</author>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.audioplexity.map" version="1.0.0">
+  <name>Map By Audioplexity</name>
+  <description>This app will allow you to search a database of maps to theme parks, malls, national parks, and more.</description>
+  <author href="http://audioplexity.com" email="support@audioplexity.com">Audioplexity Team</author>
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
   <preference name="orientation" value="default"/>
